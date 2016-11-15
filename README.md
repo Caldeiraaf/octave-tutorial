@@ -11,6 +11,7 @@
 <ul>
 <li> <a href='https://alamgirh.github.io/octave/octaveBasic.slides.html'> Basic operations </a></li>
 <li> <a href='https://alamgirh.github.io/octave/octaveFunctions.slides.html'> Functions </a> </li>
+<li> <a href='https://alamgirh.github.io/octave/octaveConditions.slides.html'> Conditions </a> </li>
 <li> <a href='https://alamgirh.github.io/octave/octaveLoops.slides.html'> Loops </a> </li>
 <li> <a href='https://alamgirh.github.io/octave/octavePlots.slides.html'> Plots </a> </li>
 <li> Nummerical methods </li>
