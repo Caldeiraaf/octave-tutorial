@@ -4,7 +4,8 @@
 <li> A high-level interpreted language </li>
 <li> primarily uses for numerical computations </li> 
 <li> a tool of data visualization and manipulation </li> 
-<li> Octave language is quite similar to Matlab </li> </ul>
+<li> Octave language is quite similar to Matlab </li> 
+</ul>
 
 ## Contents
 <ul>
