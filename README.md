@@ -6,6 +6,8 @@
 <li> a tool of data visualization and manipulation </li> 
 <li> Octave language is quite similar to Matlab </li> 
 </ul>
+## Install Octave Kernel
+<li> https://github.com/Calysto/octave_kernel </li>
 
 ## Contents
 <ul>
