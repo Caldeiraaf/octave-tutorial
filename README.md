@@ -1,4 +1,4 @@
-# octave tutorial
+# Octave Tutorial
 ## <a href='https://www.gnu.org/software/octave/'>About GNU Octave </a>
 <ul>
 <li> A high-level interpreted language </li>
