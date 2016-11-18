@@ -21,3 +21,7 @@
   <li> <a href='https://alamgirh.github.io/octave/octaveIntegrations.slides.html'> Numerical integration </a> </ul>
 
 </ul>
+<li> Complex Analysis</li>
+<ul> 
+  <li> <a href='https://alamgirh.github.io/octave/octaveComplex.slides.html'> Complex Function </a> </ul>
+</ul>
