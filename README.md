@@ -1,4 +1,4 @@
-# <a href='https://alamgirh.github.io/maple/index.html'> Octave Tutorial </a>
+# <a href='https://alamgirh.github.io/octave/index.html'> Octave Tutorial </a>
 ## <a href='https://www.gnu.org/software/octave/'>About GNU Octave </a>
 <ul>
 <li> A high-level interpreted language </li>
