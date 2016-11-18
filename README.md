@@ -18,7 +18,7 @@
 <li> <a href='https://alamgirh.github.io/octave/octavePlots.slides.html'> Plots </a> </li>
 <li> Nummerical methods </li>
 <ul> 
-  <li> <a href='https://alamgirh.github.io/octave/octaveIntegrations.slides.html'> Numerical integration </a> </ul>
+  <li> <a href='https://alamgirh.github.io/octave/octaveIntegrations.slides.html'> Numerical integration </a>
 </ul>
 <li> Complex Analysis</li>
 <ul> 
