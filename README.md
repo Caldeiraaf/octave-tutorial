@@ -33,7 +33,7 @@
     <img src="images/octavePage.png" alt="Octave GUI" style="width:400px;height:300px;">
 </th>
     <th>
-    <img src="images/JupyterPage.png" alt="contours of Im(log(z))" style="width:400px;height:300px;">
+    <img src="images/JupyterPage.png" alt="Jupyter" style="width:400px;height:300px;">
 </th>
   </tr>
   </table> 
