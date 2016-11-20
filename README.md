@@ -26,3 +26,14 @@
 <ul><li> <a href='https://alamgirh.github.io/octave/octaveComplex.slides.html'> Complex Function </a> </ul>
 </ul>
 </ul>
+
+ <table style="width:100%">
+  <tr>
+    <th>
+    <img src="images/octavePage.png" alt="Octave GUI" style="width:400px;height:300px;">
+</th>
+    <th>
+    <img src="images/JupyterPage.png" alt="contours of Im(log(z))" style="width:400px;height:300px;">
+</th>
+  </tr>
+  </table> 
