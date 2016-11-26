@@ -11,19 +11,19 @@
 
 ## Contents
 <ul>
-<li> <a href='https://alamgirh.github.io/octave/octaveBasic.slides.html'> Basic operations </a></li>
-<li> <a href='https://alamgirh.github.io/octave/octaveFunctions.slides.html'> Functions </a> </li>
-<li> <a href='https://alamgirh.github.io/octave/octaveConditions.slides.html'> Conditions </a> </li>
-<li> <a href='https://alamgirh.github.io/octave/octaveLoops.slides.html'> Loops </a> </li>
-<li> <a href='https://alamgirh.github.io/octave/octavePlots.slides.html'> Plots </a> </li>
+<li> <a href='https://alamgirh.github.io/octave/octaveBasic.html'> Basic operations </a></li>
+<li> <a href='https://alamgirh.github.io/octave/octaveFunctions.html'> Functions </a> </li>
+<li> <a href='https://alamgirh.github.io/octave/octaveConditions.html'> Conditions </a> </li>
+<li> <a href='https://alamgirh.github.io/octave/octaveLoops.html'> Loops </a> </li>
+<li> <a href='https://alamgirh.github.io/octave/octavePlots.html'> Plots </a> </li>
 <li> Nummerical methods </li>
 <ul> 
-  <li> <a href='https://alamgirh.github.io/octave/octaveIntegrations.slides.html'> Numerical Integration </a></li>
-  <li> <a href='https://alamgirh.github.io/octave/octaveDifferentiation.slides.html'> Numerical Differentiation </a></li>
-  <li> <a href='https://alamgirh.github.io/octave/octaveODE.slides.html'> Ordinary Differential Equations </a></li>
+  <li> <a href='https://alamgirh.github.io/octave/octaveIntegrations.html'> Numerical Integration </a></li>
+  <li> <a href='https://alamgirh.github.io/octave/octaveDifferentiation.html'> Numerical Differentiation </a></li>
+  <li> <a href='https://alamgirh.github.io/octave/octaveODE.html'> Ordinary Differential Equations </a></li>
 </ul>
 <li> Complex Analysis</li>
-<ul><li> <a href='https://alamgirh.github.io/octave/octaveComplex.slides.html'> Complex Function </a> </ul>
+<ul><li> <a href='https://alamgirh.github.io/octave/octaveComplex.html'> Complex Function </a> </ul>
 </ul>
 </ul>
 
